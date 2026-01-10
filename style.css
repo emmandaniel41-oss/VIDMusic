@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  background: black;
+  color: white;
+  font-family: Arial;
+}
+
+audio {
+  margin: 20px;
+  width: 300px;
+}
+
+.btn {
+  display: inline-block;
+  color: black;
+  background: yellow;
+  padding: 15px 25px;
+  border-radius: 10px;
+  font-size: 20px;
+  text-decoration: none;
+}
